@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: darkslategray;
+}
+
+
+.Introduccion, .Informacion {
+    width: 90%;
+    max-width: 800px;
+    background-color: black;
+    margin: 20px auto;
+    border: 5px white solid;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 0;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin: 0;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.BarraBotones {
+    width: 100%;
+    height: 40px;
+    background-color:rgb(146, 141, 141);
+    border: 3px rgb(146, 141, 141) solid;
+}
+
+button {
+    font-size: 20px;
+    font-style: italic;
+    width : 19%;
+    height: 40px;
+    background-color: rgb(146, 141, 141);
+    border: none;
+    color: aliceblue;
+}
+
+button:hover {
+    color: darkslategray;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    font-style: normal;
+    color: white;
+}
+
+a{
+    color: white;
+}
