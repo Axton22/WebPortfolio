@@ -4,7 +4,7 @@ body {
 }
 
 
-.Introduccion, .Informacion {
+.DiseñoCaja {
     width: 90%;
     max-width: 800px;
     background-color: black;
@@ -64,5 +64,23 @@ p {
 }
 
 a{
+    color: white;
+}
+
+.H3Secciones {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+li {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    list-style: none;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
     color: white;
 }
