@@ -1,6 +1,8 @@
 # WebPortfolio
 Investigar el trabajo soñado del Ingeniero(a) en Sistemas a partir del análisis de ofertas laborales reales y, con base en dicha investigación, diseñar y desarrollar un sitio web tipo portafolio/CV profesional o página de servicios, utilizando HTML5 y CSS3, aplicando principios de diseño web, buenas prácticas de desarrollo y diseño responsivo.
 
+## Link de diseño en Figma: https://www.figma.com/make/dzlK6BzRUAsKtU6I6WMPlo/Portfolio-website?fullscreen=1&t=SlYQXRZtBS9mlSDw-1
+
 # Empresa 1
 ## Nombre del puesto:
 - Desarrollador Java Full Stack
